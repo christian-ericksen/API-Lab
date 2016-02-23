@@ -1,6 +1,6 @@
 Task #1: Cat
 
-API Call: https://api.flickr.com/services/rest/?method=flickr.photos.search&api_key=2e3c5b196f78ee6d50208d51e19fbdbd&text=cat&format=json&nojsoncallback=1&auth_token=72157665024984045-a2aba7034bdde70e&api_sig=6245f4e597407596ff21dea8458ca766
+API Call: https://api.flickr.com/services/rest/?method=flickr.photos.search&api_key=2e3c5b196f78ee6d50208d51e19fbdbd&tags=cat&format=json&nojsoncallback=1&auth_token=72157665024984045-a2aba7034bdde70e&api_sig=0b51358cd59ee0d99618adab6489f8e7
 
 Task #2: Charlotte, NC
 
